@@ -55,4 +55,4 @@ Stay safe,
 Your OPNsense team
 
 --
-[1] https://github.com/opnsense/plugins/pull/482
+[1] https://yeti.tec.br/yetisense/plugins/pull/482

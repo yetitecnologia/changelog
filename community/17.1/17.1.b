@@ -62,7 +62,7 @@ not hesitate to contact us through any of the known channels:
 
 o Twitter: https://twitter.com/opnsense
 o Forum: https://forum.opnsense.org/
-o GitHub: https://github.com/opnsense
+o GitHub: https://github.com/yetitecnologia
 
 
 Stay safe and merry,

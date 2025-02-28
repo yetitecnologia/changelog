@@ -86,9 +86,9 @@ Your OPNsense team
 
 --
 [1] DOCS:manual/install
-[2] https://github.com/opnsense/plugins/pull/1646
-[3] https://github.com/opnsense/plugins/pull/1578
-[4] https://github.com/opnsense/plugins/pull/1618
+[2] https://yeti.tec.br/yetisense/plugins/pull/1646
+[3] https://yeti.tec.br/yetisense/plugins/pull/1578
+[4] https://yeti.tec.br/yetisense/plugins/pull/1618
 [5] CURL:7.68.0
 [6] OPENSSL:1.1.1d
 

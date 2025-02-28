@@ -44,9 +44,9 @@ Stay safe,
 Your OPNsense team
 
 --
-[1] https://github.com/opnsense/plugins/blob/master/net/frr/pkg-descr
-[2] https://github.com/opnsense/plugins/blob/master/www/nginx/pkg-descr
-[3] https://github.com/opnsense/plugins/blob/master/mail/rspamd/pkg-descr
+[1] https://yeti.tec.br/yetisense/plugins/blob/master/net/frr/pkg-descr
+[2] https://yeti.tec.br/yetisense/plugins/blob/master/www/nginx/pkg-descr
+[3] https://yeti.tec.br/yetisense/plugins/blob/master/mail/rspamd/pkg-descr
 [4] https://curl.haxx.se/changes.html
 [5] https://github.com/libevent/libevent/releases/tag/release-2.1.10-stable
 [6] https://mail.gnome.org/archives/xml/2019-January/msg00000.html

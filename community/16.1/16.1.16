@@ -77,14 +77,14 @@ Stay safe,
 Your OPNsense team
 
 --
-[1] https://github.com/opnsense/src/commit/e13c0d42ebbd4
+[1] https://yeti.tec.br/yetisense/src/commit/e13c0d42ebbd4
 [2] https://www.freebsd.org/security/advisories/FreeBSD-SA-16:20.linux.asc
 [3] https://www.freebsd.org/security/advisories/FreeBSD-SA-16:21.43bsd.asc
 [4] https://www.freebsd.org/security/advisories/FreeBSD-SA-16:22.libarchive.asc
 [5] http://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.3.5-relnotes.txt
 [6] https://github.com/phalcon/cphalcon/releases/tag/phalcon-v2.0.13
 [7] DNSMASQ:2.76
-[8] https://github.com/opnsense/apinger/blob/master/NEWS
+[8] https://yeti.tec.br/yetisense/apinger/blob/master/NEWS
 [9] https://curl.haxx.se/changes.html
 [10] https://kb.isc.org/article/AA-01383/81/BIND-9.10.4-P1-Release-Notes.html
 [11] https://php.net/ChangeLog-5.php#5.6.22

@@ -110,10 +110,10 @@ Your OPNsense team
 
 --
 [1] DOCS:manual/install
-[2] https://github.com/opnsense/plugins/pull/1654
+[2] https://yeti.tec.br/yetisense/plugins/pull/1654
 [3] PLUGINS:20.7/net-mgmt/telegraf
-[4] https://github.com/opnsense/plugins/pull/1733
-[5] https://github.com/opnsense/plugins/pull/1865
+[4] https://yeti.tec.br/yetisense/plugins/pull/1733
+[5] https://yeti.tec.br/yetisense/plugins/pull/1865
 [6] CURL:7.71.1
 [7] PHP7:7.3.20
 [8] PYTHON:3.7.8

@@ -384,7 +384,7 @@ Your OPNsense team
 [21] FREEBSD:FreeBSD-SA-24:15.bhyve
 [22] FREEBSD:FreeBSD-SA-24:16.libnv
 [23] CURL:8.10.1
-[24] https://github.com/opnsense/dhcrelay/issues/2
+[24] https://yeti.tec.br/yetisense/dhcrelay/issues/2
 [25] EXPAT:2.6.3
 [26] https://w1.fi/cgit/hostap/plain/hostapd/ChangeLog
 [27] https://downloads.isc.org/isc/kea/2.6.1/Kea-2.6.1-ReleaseNotes.txt

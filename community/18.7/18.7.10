@@ -99,9 +99,9 @@ Stay safe,
 Your OPNsense team
 
 --
-[1] https://github.com/opnsense/plugins/blob/master/dns/bind/pkg-descr
-[2] https://github.com/opnsense/plugins/pull/1090
-[3] https://github.com/opnsense/plugins/blob/master/mail/postfix/pkg-descr
+[1] https://yeti.tec.br/yetisense/plugins/blob/master/dns/bind/pkg-descr
+[2] https://yeti.tec.br/yetisense/plugins/pull/1090
+[3] https://yeti.tec.br/yetisense/plugins/blob/master/mail/postfix/pkg-descr
 [4] https://www.freebsd.org/security/advisories/FreeBSD-SA-18:15.bootpd.asc
 [5] https://www.freebsd.org/security/advisories/FreeBSD-EN-18:17.vm.asc
 [6] https://www.freebsd.org/security/advisories/FreeBSD-EN-18:18.zfs.asc

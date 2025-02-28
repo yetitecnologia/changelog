@@ -166,9 +166,9 @@ Your OPNsense team
 
 --
 [1] https://docs.opnsense.org/manual/install.html
-[2] https://github.com/opnsense/plugins/pull/1134
-[3] https://github.com/opnsense/plugins/blob/master/security/openconnect/pkg-descr
-[4] https://github.com/opnsense/plugins/blob/master/www/nginx/pkg-descr
+[2] https://yeti.tec.br/yetisense/plugins/pull/1134
+[3] https://yeti.tec.br/yetisense/plugins/blob/master/security/openconnect/pkg-descr
+[4] https://yeti.tec.br/yetisense/plugins/blob/master/www/nginx/pkg-descr
 [5] https://hardenedbsd.org/content/easy-feature-comparison
 [6] https://www.freebsd.org/releases/11.2R/relnotes.html
 [7] https://www.freebsd.org/releases/11.2R/errata.html
@@ -176,7 +176,7 @@ Your OPNsense team
 [9] https://php.net/ChangeLog-7.php#7.1.26
 [10] https://www.sudo.ws/stable.html#1.8.27
 [11] PERL:5.28.1
-[12] https://github.com/opnsense/core/commit/a2899594
+[12] https://yeti.tec.br/yetisense/core/commit/a2899594
 [13] https://docs.opnsense.org/manual/dynamic_routing.html
 
 # SHA256 (OPNsense-19.1.r1-OpenSSL-dvd-amd64.iso.bz2) = 7c0c6cf529cb2f8aa9c29b3645b4ec1e218c292f722941ae9880b009c93e6364

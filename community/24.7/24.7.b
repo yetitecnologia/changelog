@@ -8,7 +8,7 @@ development state.  This is not meant for production use but all plugins
 are provided and future updates of installations based on these images
 will be possible.
 
-https://pkg.opnsense.org/releases/24.7/
+https://yeti.tec.br/yetisense//releases/24.7/
 
 There is a bit more work to be done yet most of the milestones have
 already been reached.  If you have a test deployment or would like to
